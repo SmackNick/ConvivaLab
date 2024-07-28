@@ -1,0 +1,7 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-DaTt5T5FCsCkBpLldXyMlz6KeB2BmwSFkdN6NT+Ojck='; style-src 'self' 'sha256-wlVLn4UFHnrRgT3AYTc5jsurJOJpTtvnO9E8SRNxznQ=';
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer-when-downgrade
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+*/
