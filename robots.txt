@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /junk/
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+
+# Allow all other pages
+Allow: /
+
+# Sitemap location
+Sitemap: https://vinnalab.com/sitemap.xml
